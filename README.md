@@ -59,6 +59,3 @@ Este projeto é ideal para iniciantes que desejam aprender sobre:
 - Implementação de listeners para eventos
 - Organização básica de layouts em aplicações desktop
 
-## Autor
-
-Desenvolvido como material de estudo baseado no curso K19 - Java.
